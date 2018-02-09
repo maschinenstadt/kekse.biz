@@ -16,7 +16,7 @@ you also can't change the template(s) itself, whose job is also to provide my na
 
 ## Remark
 The name of the '.html' files is used for my '?page:(name)' query string. If you include
-a <Space> (\32), it will be encoded as <Underline> ('_') in the query string.
+a (Space) (\32), it will be encoded as (Underline) ('_') in the query string.
 
 Additionally, the '.desc.html' files are the 'abstract', a little info box on top of the
 pages. They just describe what the visitor can expect of one of these pages.
