@@ -1,4 +1,4 @@
-# kekse.biz
+# <https://kekse.biz/>
 This is just my _private_ Homepage.
 
 ## .html
@@ -25,5 +25,4 @@ pages. They just describe what the visitor can expect of one of these pages.
 Copyright (c) maschinenstadt (Sebastian Kucharczyk <kuchen@kekse.biz>)
 
 	< https://kekse.biz/ >
-	< kuchen @ kekse.biz >
 
